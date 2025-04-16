@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mahasiswa/screen/gempa_screen.dart';
+import 'package:uts_grace_2226240079/screen/gempa_screen.dart';
 
 void main() {
   runApp(const MyApp());
