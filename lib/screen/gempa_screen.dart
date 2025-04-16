@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'gempa_model.dart';
-import 'gempa_repository.dart';
+import 'package:mahasiswa/models/gempa_model.dart';
+import 'package:mahasiswa/repositories/gempa_repository.dart';
 
 class GempaScreen extends StatefulWidget {
   const GempaScreen({super.key});

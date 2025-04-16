@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'gempa_model.dart';
+import 'package:mahasiswa/models/gempa_model.dart';
 
 class GempaRepository {
   final String apiUrl = 'https://data.bmkg.go.id/DataMKG/TEWS/autogempa.json';
